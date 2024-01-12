@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Test dotnet\\Test dotnet.csproj": {}
+    "D:\\source_code\\C#\\Test dotnet\\Test dotnet.csproj": {}
   },
   "projects": {
-    "D:\\Test dotnet\\Test dotnet.csproj": {
+    "D:\\source_code\\C#\\Test dotnet\\Test dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test dotnet\\Test dotnet.csproj",
+        "projectUniqueName": "D:\\source_code\\C#\\Test dotnet\\Test dotnet.csproj",
         "projectName": "Test dotnet",
-        "projectPath": "D:\\Test dotnet\\Test dotnet.csproj",
+        "projectPath": "D:\\source_code\\C#\\Test dotnet\\Test dotnet.csproj",
         "packagesPath": "C:\\Users\\congt\\.nuget\\packages\\",
-        "outputPath": "D:\\Test dotnet\\obj\\",
+        "outputPath": "D:\\source_code\\C#\\Test dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\congt\\AppData\\Roaming\\NuGet\\NuGet.Config"

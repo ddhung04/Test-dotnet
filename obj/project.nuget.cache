@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tJ2lSL9cQfC2ZZzZaMCB4RNAbHbJIImy0TX4McBpAWPM+X/DrIPoNYDo5BOP9QPJWBcepmzMpZuHbphAHJ0jMw==",
+  "dgSpecHash": "qKS07BpqEVNWF4XTu+p0oueb+hVz4faBcFYyqNVfzJRBQQjO8EF2Jqz+iexJYJA+YDu1q/OalWlQMiP/mWTt4Q==",
   "success": true,
-  "projectFilePath": "D:\\Test dotnet\\Test dotnet.csproj",
+  "projectFilePath": "D:\\source_code\\C#\\Test dotnet\\Test dotnet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
