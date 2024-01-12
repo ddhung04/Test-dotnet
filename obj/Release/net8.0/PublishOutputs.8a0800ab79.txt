@@ -1,0 +1,5 @@
+D:\Test dotnet\bin\Release\net8.0\publish\Test dotnet.exe
+D:\Test dotnet\bin\Release\net8.0\publish\Test dotnet.dll
+D:\Test dotnet\bin\Release\net8.0\publish\Test dotnet.deps.json
+D:\Test dotnet\bin\Release\net8.0\publish\Test dotnet.runtimeconfig.json
+D:\Test dotnet\bin\Release\net8.0\publish\Test dotnet.pdb
